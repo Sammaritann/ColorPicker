@@ -1,0 +1,16 @@
+D:\KG\TestColor\TestColor\bin\Debug\TestColor.exe.config
+D:\KG\TestColor\TestColor\bin\Debug\TestColor.exe
+D:\KG\TestColor\TestColor\bin\Debug\TestColor.pdb
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.csprojAssemblyReference.cache
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.Form1.resources
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.Properties.Resources.resources
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.csproj.GenerateResource.cache
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.exe
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.pdb
+D:\KG\TestColor\TestColor\bin\Debug\Cyotek.Windows.Forms.ColorPicker.xml
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.csproj.CopyComplete
+D:\KG\TestColor\TestColor\bin\Debug\TestColor.exe.manifest
+D:\KG\TestColor\TestColor\bin\Debug\TestColor.application
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.csproj.Fody.CopyLocal.cache
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.exe.manifest
+D:\KG\TestColor\TestColor\obj\Debug\TestColor.application
